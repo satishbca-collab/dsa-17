@@ -15,3 +15,9 @@
 1. https://www.geeksforgeeks.org/problems/gcd-of-array0614/1
 1. https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1
 1. https://www.geeksforgeeks.org/problems/prime-number2314/1
+
+## Bit manipulation
+1. https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1
+1. https://www.geeksforgeeks.org/problems/find-unique-number/1
+1. https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1
+1. https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1
