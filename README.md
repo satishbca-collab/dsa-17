@@ -20,4 +20,25 @@
 1. https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1
 1. https://www.geeksforgeeks.org/problems/find-unique-number/1
 1. https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1
+
+## Searching
+1. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+1. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+1. https://leetcode.com/problems/find-peak-element/description/
+
+## Recursion
+1. https://www.geeksforgeeks.org/problems/palindrome-string0817/1
+1. https://leetcode.com/problems/generate-parentheses/description/
+1. https://www.geeksforgeeks.org/problems/gray-code-1611215248/1
+
+## Math and Bit IL
+1. https://leetcode.com/problems/four-divisors/
+1. https://practice.geeksforgeeks.org/problems/number-of-open-doors1552/1
+1. https://leetcode.com/problems/unique-paths/description/
+1. https://leetcode.com/problems/reverse-bits/description/
+1. https://leetcode.com/problems/number-of-1-bits/
 1. https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1
+
+## Backtracking
+1. https://leetcode.com/problems/n-queens/description/
+1. https://leetcode.com/problems/permutations/description/
