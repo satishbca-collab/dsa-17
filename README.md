@@ -42,3 +42,16 @@
 ## Backtracking
 1. https://leetcode.com/problems/n-queens/description/
 1. https://leetcode.com/problems/permutations/description/
+
+## Sorting
+1. https://leetcode.com/problems/sort-an-array/description/
+
+## Recursion IL
+1. https://leetcode.com/problems/subsets/
+1. https://leetcode.com/problems/power-of-three/
+1. https://leetcode.com/problems/predict-the-winner/description/
+
+## 2 Pointers
+1. https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
+1. https://leetcode.com/problems/two-sum/
+1. https://leetcode.com/problems/subarray-sum-equals-k/
