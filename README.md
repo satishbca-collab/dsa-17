@@ -29,7 +29,6 @@
 ## Recursion
 1. https://www.geeksforgeeks.org/problems/palindrome-string0817/1
 1. https://leetcode.com/problems/generate-parentheses/description/
-1. https://www.geeksforgeeks.org/problems/gray-code-1611215248/1
 
 ## Math and Bit IL
 1. https://leetcode.com/problems/four-divisors/
@@ -55,3 +54,13 @@
 1. https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
 1. https://leetcode.com/problems/two-sum/
 1. https://leetcode.com/problems/subarray-sum-equals-k/
+
+## IL Backtracking and Sorting
+1. https://leetcode.com/problems/combination-sum/
+1. https://www.geeksforgeeks.org/problems/gray-code-1611215248/1
+1. https://leetcode.com/problems/sudoku-solver/
+
+## Stack and Queue
+1. https://leetcode.com/problems/min-stack/description/
+1. https://leetcode.com/problems/implement-stack-using-queues/description/
+1. https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1
